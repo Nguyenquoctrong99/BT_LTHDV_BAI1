@@ -13,3 +13,5 @@ POST /login
 GET /profile
 
 POST /logout
+
+<img width="1920" height="1080" alt="bai1_cookie_MGDB" src="https://github.com/user-attachments/assets/b26cbf9f-4927-4c17-aeef-97b53d716011" />
